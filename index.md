@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+
+<!-- Start JM Bullion Chart -->
+<div id="jmb_chart_Silver_USD" style="width:336px;height:257px;"></div>
+<script>
+(function(){var t = document.getElementsByTagName("script")[0];var s=document.createElement("script");s.async=true;s.src="https://redist.nfusionsolutions.biz/client/jmbullion/widget/chart/smallhistorical/jmb_chart_Silver_USD?metal=Silver&currency=USD&width=336";t.parentNode.insertBefore(s,t);})();
+</script>
+<!-- End JM Bullion Chart-->
+
 You can use the [editor on GitHub](https://github.com/Jay-Marksman/intro-html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
