@@ -8,4 +8,13 @@
 </script>
 <!-- End JM Bullion Chart-->
 
+<!-- Start BTC Chart -->
+<div id="bitcoin" style="width:336px;height:257px;"></div>
+<script>
+(function(){var t = document.getElementsByTagName("script")[0];var s=document.createElement("script");s.async=true;s.src="https://http://bitcointicker.co/coinbase/btc/usd/12hr/(s,t);})();
+</script>
+<!-- End BTC Chart-->
+
+
+
 
